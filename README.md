@@ -1,5 +1,6 @@
 # LAMP!SHE
 Сайт: [lampishe.cc](http://lampishe.cc)
+https://img.shields.io/uptimerobot/ratio/m796297348-fc2537cf9a72e0448165c542
 
 
 ## Скачать приложение
