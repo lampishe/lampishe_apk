@@ -1,12 +1,12 @@
 # LAMP!SHE
-
+Сайт: [lampishe.cc](http://lampishe.cc)
 
 
 ## Скачать приложение
 
-- **Последняя версия APK**: [Скачать](http://apk.lampishe.cc)
-- **Предыдущие версии APK**: [Список версий](http://apk.lampishe.cc/?tag={tag})
-  - Например: [1.7](http://apk.lampishe.cc/?tag=1.7)
+- **Последняя версия APK**: [apk.lampishe.cc](http://apk.lampishe.cc)
+- **Предыдущие версии APK**: [apk.lampishe.cc/?tag={tag}](http://apk.lampishe.cc/?tag={tag})
+  - Например: [apk.lampishe.cc/?tag=1.7](http://apk.lampishe.cc/?tag=1.7)
 
 ## Сообщество Lampishe
 
