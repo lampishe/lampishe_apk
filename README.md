@@ -1,7 +1,6 @@
 # LAMP!SHE
 Сайт: [lampishe.cc](http://lampishe.cc)
-![uptime]([https://example.com/logo.png](https://img.shields.io/uptimerobot/ratio/m796297348-fc2537cf9a72e0448165c542
-)
+![uptime](https://img.shields.io/uptimerobot/ratio/m796297348-fc2537cf9a72e0448165c542)
 
 
 
